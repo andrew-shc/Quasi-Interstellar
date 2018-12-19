@@ -1,0 +1,17 @@
+# Project Workspace
+Quasi Interstellar/.vs
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Remove all unnecassary folders and files
+External Libraries/SFML-2.5.1/
+Quasi Interstellar/Quasi Interstellar/x64
+*.dll
+*.ilk
+*.pdb
+
+# Source Code (All source code now are private)
+*.cpp
+*.h
