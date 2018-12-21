@@ -11,6 +11,7 @@ Quasi Interstellar/Quasi Interstellar/x64
 *.dll
 *.ilk
 *.pdb
+.vs
 
 # Source Code (All source code now are private)
 *.cpp

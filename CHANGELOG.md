@@ -1,3 +1,11 @@
+## Indev 1.4 - Dec 21, 2018
+- [ADDITION]
+	- Jumping
+	- Gravity
+	- Breaking blocks
+- [MISC]
+	- Bug fixes
+
 ## Indev 1.3.1 - Dec 18, 2018
 - [BUG] Bug fixes!
 - [ADDITION] New Name!
