@@ -1,4 +1,4 @@
-# Cookie Island
+# Quasi Interstellar
 A 2D game based off Terraria and Minecraft. It is a 2D sandbox game similar
 to Terreria. This game has two gameplay mode: survival and a special mode.
 
