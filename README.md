@@ -15,7 +15,10 @@ to Terreria. This game has two gameplay mode: survival and a special mode.
 - Press WASD to move
 
 ### Function Versions
-- Block Data System v3.0
+- Block Data System v4.0
 - Terrain Generator v3.0
-- Collision System v1.0
+- Collision System v1.1 (4-Side Arithmetical Collision)
 - Break/Place System v1.0
+
+### Credit
+- Pixilart (for textures)

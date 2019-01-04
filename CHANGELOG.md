@@ -1,4 +1,12 @@
-## Indev 1.4 - Dec 21, 2018
+## Indev 1.5 - Jan 3, 2018
+- [CHANGE]
+	- When you move, the player will move smoother than before
+- [MISC]
+	- Constants.h and BlockData.stp will be publicize.
+	- License update!
+- [NOTE] The collision optimization is work in progress
+
+## Indev 1.4 - Dec 20, 2018
 - [ADDITION]
 	- Jumping
 	- Gravity

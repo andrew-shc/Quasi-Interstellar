@@ -2,7 +2,6 @@
 A vertical 2D sandbox game where you can play and have enjoyment!
 
 ## Key
-W - UP
+[SPACE] - JUMP
 A - LEFT
-S - DOWN
 D - RIGHT

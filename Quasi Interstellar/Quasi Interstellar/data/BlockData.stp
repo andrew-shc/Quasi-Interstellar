@@ -1,0 +1,34 @@
+BlockPreDefine
+	0:AIR
+	1:REQT
+	2:CONSTRUCTION-BLOCK
+	3:BORDER-BLOCK
+
+BlockProperties
+	AIR
+		blockID:0
+		texture:air_block
+		passable:true
+		replaceable:null
+		breakable:false
+		
+	REQT
+		blockID:1
+		texture:reqt
+		passable:false
+		replaceable:false
+		breakable:true
+
+	CONSTRUCTION-BLOCK
+		blockID:2
+		texture:box_frame
+		passable:false
+		replaceable:false
+		breakable:true
+
+	BORDER-BLOCK
+		blockID:3
+		texture:out
+		passable:true
+		replaceable:false
+		breakable:false	

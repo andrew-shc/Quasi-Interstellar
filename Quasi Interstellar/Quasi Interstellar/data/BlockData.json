@@ -1,0 +1,12 @@
+{
+  "AIR": {
+    "block-id": 0,
+    "texture": 1,
+    "passable": 2,
+    "replaceable": 3,
+    "breakable": 4,
+  },
+	"BLOCK": {
+	
+	}
+}
