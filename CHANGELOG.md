@@ -1,3 +1,7 @@
+## Indev 1.5.1 - Jan 19, 2018
+- [FIX]
+	- Slight speed improvement
+
 ## Indev 1.5 - Jan 3, 2018
 - [CHANGE]
 	- When you move, the player will move smoother than before
